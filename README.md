@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hello! 👋
+### I'm currently working on Geometric Graph Neural Networks and Generative AI models!
 <!--
 **FatemehFathiNiazi/FatemehFathiNiazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
